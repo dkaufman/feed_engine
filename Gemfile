@@ -1,12 +1,11 @@
 source 'https://rubygems.org'
 
-gem 'rails', '3.2.3'
+gem 'rails'
 gem 'slim'
 gem 'simple_form', '~> 2.0'
 gem 'jbuilder'
 gem 'devise'
 gem 'embedly'
-gem 'twitter'
 gem 'octokit'
 gem 'paperclip'
 gem 'aws-s3', :require => 'aws/s3'
